@@ -1,0 +1,26 @@
+body {
+    background-color: RGB(26,26,26);
+}
+h1 {
+	color: white;
+	font-family: verdana;
+	font-size: 300%;
+}
+p {
+	color: white;
+	font-family: verdana;
+	font-size: 100%;
+}
+.intro {
+	background-color: RGB(64,0,0);
+	
+}
+div > p { 
+    color: RGB(255,128,0);
+}
+mabaliseperso > p {
+	background-color: RGB(255,255,255);
+	color: RGB(0,0,0);
+	font-family: verdana;
+	font-size: 100%;
+}
